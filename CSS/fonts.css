@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Akira Expanded';
+  src: url('../fonts/Akira Expanded Demo.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+} 
+
+@font-face {
+  font-family: 'FontAwesomeBrands';
+  src: url('../fonts/fa-regular-400.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FontAwesomeRegular';
+  src: url('../fonts/fa-regular-400.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FontAwesomeSolid';
+  src: url('../fonts/fa-solid-900.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.Akira{
+  font-family: 'Akira Expanded', sans-serif;
+}
